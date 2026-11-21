@@ -22,4 +22,4 @@ An explainable and responsible AI decision platform with dashboards, model expla
 
 ## Connect
 
-[LinkedIn](https://www.linkedin.com/in/gauravi-thorat-a45168266)
+[LinkedIn](https://www.linkedin.com/in/gauravi-thorat19/)
