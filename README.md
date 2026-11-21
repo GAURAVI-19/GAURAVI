@@ -1,11 +1,25 @@
-- 👋 Hi, I’m @GAURAVI, I'm a passionate software developer with experience in web development and AI.
-- 👀 I’m interested in Open-source projects, AI, web development, blockchain, and cybersecurity. 
-- 🌱 I’m currently learning Computer Science and Engineering with Artificial Intellegence, learning Python, React.js for frontend development, and DevOps tools.
-- 💞️ I’m looking to collaborate on Exciting open-source projects, hackathons, and research in AI and automation.
-- 📫 How to reach me:- - LinkedIn: www.linkedin.com/in/gauravi-thorat-a45168266, - Gmail: gauravithorat5@email.com
-- ⚡ Fun fact: I love solving coding challenges on LeetCode and contributing to open-source projects.
+# Hi, I'm Gauravi 👋
 
-<!---
-GAUARVI/GAUARVI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Computer Science & Engineering (Artificial Intelligence) student
+
+I build practical web applications and explore how AI can solve real problems. I enjoy turning ideas into clear, usable projects and learning by shipping them.
+
+- 🎓 Studying Computer Science & Engineering with a focus on Artificial Intelligence
+- 🌱 Currently learning Python, React, and DevOps
+- 💻 Interested in applied AI, web development, automation, and open source
+- 🤝 Open to collaborating on thoughtful student and open-source projects
+
+## Featured project
+
+### [AlphaMatrix AI](https://github.com/GAURAVI-19/AlphaMatrix-AI)
+An explainable and responsible AI decision platform with dashboards, model explanations, and human review workflows.
+
+## Technologies
+
+**Languages:** Python, JavaScript, PHP  
+**Web:** React, Node.js, MySQL  
+**Exploring:** DevOps, AI and machine learning
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/gauravi-thorat-a45168266)
